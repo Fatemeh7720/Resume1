@@ -1,0 +1,356 @@
+body{
+    margin: 5px 360px;
+    direction: rtl;
+    background-color: #f0f5f5;
+}
+
+.top{
+    background-image: linear-gradient(to right,rgb(239, 148, 202),rgb(171, 29, 121),rgb(171, 29, 121),rgb(78, 39, 128));
+    height: 370px;
+    width: 793.694px;
+}
+
+.name{
+    font-family: Roboto;
+    font-size: 85px;
+    color: snow;
+    font-weight: bolder;
+    text-align: right;
+    background: rgb(239, 148, 202);
+    height: 200px;
+    width: 480px;
+    margin: -320px 50px;
+}
+
+.nametext{
+    font-family: tahoma;
+    font-size: 60px;
+    color: snow;
+    font-weight: bolder;
+    text-align: left;
+    margin-top: 180px;
+    margin-left: 325px;  
+}
+
+.major{
+    border: 3px solid snow;
+    width: 320px;
+    height: 50px;
+    margin-right: 110px;
+    margin-top: 55px;
+}
+
+.majortext{
+    font-family: tahoma;
+    letter-spacing: 8px;
+    line-height: 20px;
+    font-size: 15px;
+    text-shadow: 2px 4px purple;
+    color: snow;
+    font-weight: bolder;
+    text-align: right;
+    margin-top: -40px;
+    margin-right: 150px;
+}
+
+.age{
+    font-family: Roboto;
+    font-size: 15px;
+    color: snow;
+    font-weight: bolder;
+    text-align: right;
+    margin: -60px 470px;
+    width: 40px;
+}
+
+.body{
+    display: block;
+    background-color: #EFEBE2;
+    margin-top: 172px;
+    height: 800px; 
+    width: 793.694px;
+}
+
+.biography{
+    line-height: 1.4;
+    letter-spacing: 0.03em;
+    font-family: &quot;
+    font-size: 12.0457px;
+    text-transform: none;
+    color: rgb(39, 32, 48);
+    width: 254.692px;
+    height: 111.852px;
+}  
+
+div.biography{
+    padding: 60px;
+    
+}
+
+.biographyheader{
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: 0.325em;
+    text-transform: uppercase;
+    color: rgb(42, 10, 94);
+    text-decoration: none;
+}
+
+.biographytext{
+    font-weight: 400;
+    font-style: normal;
+    text-align: justify;
+    color: rgb(39, 32, 48);
+    text-decoration: none;
+}    
+
+.skills{
+    text-align: justify
+    line-height: 1.4;
+    letter-spacing: 0.03em;
+    font-family: &quot;
+    font-size: 12.0457px;
+    color: rgb(39, 32, 48);
+    width: 254.692px;
+    height: 111.852px;
+}  
+
+div.skills{
+    padding: 0px 60px;
+    margin-top: -40px
+    
+}
+
+.skillsheader{
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: 0.325em;
+    color: rgb(42, 10, 94);
+    text-decoration: none;
+    
+}
+
+.skillstext{
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(171, 29, 121);
+}  
+
+.skillstext2{
+    text-align: left;
+    direction: ltr;
+    unicode-bidi: embed;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(171, 29, 121);
+    --head-indent:1.7;
+    margin: 5px -20px;
+    
+}
+
+.programminglanguages{
+    text-align: left;
+    direction: ltr;
+    unicode-bidi: embed;
+    line-height: 1.4;
+    letter-spacing: 0.03em;
+    --head-indent:1.7;
+    font-family: &quot;
+    font-size: 12px;
+    text-transform: none;
+    color: rgb(171, 29, 121);
+    font-weight: 400;
+    font-style: normal; 
+    margin: -35px -20px;
+    
+}
+
+.languages{
+    line-height: 1.4;
+    letter-spacing: 0.03em;
+    --head-indent:1.7;
+    font-family: &quot;
+    font-size: 12px;
+    text-transform: none;
+    color: rgb(171, 29, 121);
+    font-weight: 400;
+    font-style: normal; 
+    margin: 5px -20px; 
+}
+
+span.skillstext1{
+    color: rgb(39, 32, 48);
+    font-weight: 400;
+    font-style: normal;
+}
+
+.informations{
+    line-height: 1.4;
+    letter-spacing: 0.03em;
+    font-family: &quot;
+    font-size: 12.0457px;
+    color: rgb(39, 32, 48);
+    width: 254.692px;
+    height: 111.852px;
+}  
+
+div.informations{
+    padding: 0px 60px;
+    margin-top: 250px
+    
+}
+
+.informationsheader{
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: 0.325em;
+    text-transform: uppercase;
+    color: rgb(42, 10, 94);
+    text-decoration: none;
+}
+
+.informationstext{
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(39, 32, 48);
+    text-decoration: none;
+
+}
+
+.academic{
+    line-height: 1.4;
+    letter-spacing: 0.03em;
+    font-family: &quot;
+    font-size: 12.0457px;
+    color: rgb(39, 32, 48);
+    width: 254.692px;
+    height: 111.852px;
+}  
+
+div.academic{
+    padding-top: 0px; 
+    padding-left: 60px;
+    margin: -620px 500px;
+    
+}
+
+.academicheader{
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: 0.325em;
+    text-transform: uppercase;
+    color: rgb(42, 10, 94);
+    text-decoration: none;
+}
+
+.academictext1{
+    font-weight: 700;
+    font-size: 15.0519px;
+    font-style: normal;
+    color: rgb(171, 29, 121);
+    text-decoration: none;
+}
+
+.academictext{
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(171, 29, 121);
+    text-decoration: none;
+}
+
+pre.text{
+    font-family: B Nazanin;
+    font-weight: bolder;
+    font-size: 20px;
+    color: snow;
+    position: relative;
+    top: -165px; left: -600px;
+ 
+}
+
+.employment{
+    line-height: 1.4;
+    letter-spacing: 0.03em;
+    font-family: &quot;
+    font-size: 12.0457px;
+    text-transform: none;
+    color: rgb(39, 32, 48);
+    width: 254.692px;
+    height: 111.852px;
+}  
+
+div.employment{
+    padding: 700px  500px;
+    
+}
+
+.employmentheader{
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: 0.325em;
+    text-transform: uppercase;
+    color: rgb(42, 10, 94);
+    text-decoration: none;
+}
+
+.employmenttext{
+    font-weight: 400;
+    font-style: normal;
+    text-align: justify;
+    color: rgb(39, 32, 48);
+    text-decoration: none;
+}
+
+.englishlink{
+    text-decoration: none;
+}
+
+.englishlink:hover{
+    cursor: grab;
+    font-weight: lighter;
+}
+
+#englishresume{
+    text-align: left;
+    background-color: #ab1d79;
+    height: 37px; 
+    width: 793.694px;
+    position: relative;
+    top: -38px;
+}
+
+#second{
+    color: #4e2780;
+    background-color: #4e2780;
+    height: 37px; 
+    width: 350px;
+    position: relative;
+    top: -75px; left: -403px;
+}
+
+#third{
+    color: #ef94ca;
+    background-color: #ef94ca;
+    height: 37px; 
+    width: 40px;
+    position: relative;
+    top: -112px; left: -754px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
